@@ -10,9 +10,7 @@
     - title: 草料二维码
       qrcode: images/qrcodes/cli.png
       url: https://cli.im/url
-      description: 在线二维码生成工具
-    - title: 在线文件传输
-      url: https://musetransfer.com/
+      description: 在线二维码生成工
 
 - taxonomy: 云服务平台
   icon: fa-cloud
